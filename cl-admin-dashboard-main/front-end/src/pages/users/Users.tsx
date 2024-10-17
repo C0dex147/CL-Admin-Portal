@@ -52,20 +52,6 @@ const columns: GridColDef[] = [
     width: 150,
     type: "boolean",
   },
-
-  // {
-  //   field: "actions",
-  //   headerName: "Actions",
-  //   width: 100,
-  //   renderCell: (params) => {
-  //     return (
-  //       <div className="action">
-  //         <div className="view">View</div>
-  //         <div className="delete">Delete</div>
-  //       </div>
-  //     );
-  //   },
-  // },
 ];
 
 const Users = () => {
